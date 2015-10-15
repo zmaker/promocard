@@ -1,0 +1,32 @@
+============================================
+Log Created: 2015-09-23T21:14:53+00:00
+============================================
+Symphony Log
+Opened:  2015-09-23T21:14:53+00:00
+Version: 2.6.3
+Domain:  localhost:8000
+--------------------------------------------
+09/23/2015 9:14 pm > Fatal Error: Installer - Missing requirements.
+09/23/2015 9:14 pm > Fatal Error: Requirement - XSLT extension not present
+
+============================================
+INSTALLATION PROCESS STARTED (2015-09-23T21:19:02+00:00)
+============================================
+09/23/2015 9:19 pm > Notice: MYSQL: Establishing Connection
+09/23/2015 9:19 pm > Notice: MYSQL: Importing Table Schema
+09/23/2015 9:19 pm > Notice: MYSQL: Creating Default Author
+09/23/2015 9:19 pm > Notice: WRITING: Creating ‘manifest’ folder (/manifest)
+09/23/2015 9:19 pm > Notice: WRITING: Creating ‘logs’ folder (/manifest/logs)
+09/23/2015 9:19 pm > Notice: WRITING: Creating ‘cache’ folder (/manifest/cache)
+09/23/2015 9:19 pm > Notice: WRITING: Creating ‘tmp’ folder (/manifest/tmp)
+09/23/2015 9:19 pm > Notice: WRITING: Configuration File
+09/23/2015 9:19 pm > Notice: CONFIGURING: Frontend
+09/23/2015 9:19 pm > Notice: An existing ‘workspace’ directory was found at this location. Symphony will use this workspace.
+09/23/2015 9:19 pm > Notice: MYSQL: Importing Workspace Data...
+09/23/2015 9:19 pm > Notice: CONFIGURING: Installing existing extensions
+============================================
+INSTALLATION COMPLETED: Execution Time - 1 sec (23.09.15 21:19:02)
+============================================
+
+
+
